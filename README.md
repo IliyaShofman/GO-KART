@@ -6,3 +6,5 @@ Starting from basic automotive components - the wheels, motor, battery, steering
 An interesting aspect of the chassis design is the ergononomics. I need to make things comfortable for myself, otherwise I increase the risk of getting into an accident if I'm agitated while driving! This project has given me a first-hand experience with the crich concept of "design for ergonomics". 
 
 This project is currently in progress; so far, I've been able to make a semi-detailed SOLIDWORKS model of my car, with close-to-actual dimensions for each of the components. 
+
+!["Go Kart Isometric View"](full car visual.png)
