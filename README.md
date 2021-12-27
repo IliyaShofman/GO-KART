@@ -7,4 +7,4 @@ An interesting aspect of the chassis design is the ergononomics. I need to make 
 
 This project is currently in progress; so far, I've been able to make a semi-detailed SOLIDWORKS model of my car, with close-to-actual dimensions for each of the components. 
 
-!["Go Kart Isometric View"](full car visual.png)
+!["Go Kart Isometric View"](https://github.com/IliyaShofman/GO-KART/blob/main/Full%20Car%20Visual.png)
